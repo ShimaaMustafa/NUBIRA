@@ -10,7 +10,7 @@ import AuthLayout from './layouts/AuthLayout';
 import SignIn from './pages/SignIn';
 import SignUp from './pages/SignUp';
 import ProtectedRoute from './protectedRoutes/ProtectedRoute';
-import ProtectedAuthRoute from './protectedRoutes/protectedAuthRoute';
+import ProtectedAuthRoute from '../src/protectedRoutes/ProtectedAuthRoute';
 import AuthContextProvider from './contexts/authContext';
 import CounterContextProvider from './contexts/counterContext';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
