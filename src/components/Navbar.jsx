@@ -23,7 +23,7 @@ export default function Navbar() {
     <HeroUiNavebar>
       <NavbarBrand>
         <Link to={'/'} className="flex items-center text-inherit">
-        <img src="/public/letter-n-alphabet-symbol-vector-illustration_945339-1378.avif" alt="Logo" width={40} height={40} />
+        <img src="/letter-n-alphabet-symbol-vector-illustration_945339-1378.avif" alt="Logo" width={40} height={40} />
         <p className="font-bold text-inherit">UBIRA</p>
         </Link>
       </NavbarBrand>
