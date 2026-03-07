@@ -24,7 +24,7 @@ export default function Navbar() {
       <NavbarBrand>
         <Link to={'/'} className="flex items-center text-inherit">
         <img src="/letter-n-alphabet-symbol-vector-illustration_945339-1378.avif" alt="Logo" width={40} height={40} />
-        <p className="font-bold text-inherit">UBIRA</p>
+        <p className="font-bold text-inherit">UVORA</p>
         </Link>
       </NavbarBrand>
 
